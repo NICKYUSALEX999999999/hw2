@@ -1,0 +1,35 @@
+body{
+    background-color: black;
+    margin: 0;
+    padding: 0;
+}
+.link{
+    text-align: center;
+    font-size: 40px;
+    color: blue;
+    font-style: italic;
+}
+.header {
+    text-align: center;
+    color: crimson;
+    font-style: oblique;
+    font-size: 20px;
+
+}
+.react {
+    top: 400px;
+    color: cyan;
+    font-size: 30px;
+    font-style: oblique;
+}
+.image {
+    width: 700px;
+    height: 360px;
+    justify-content: center;
+   
+}
+.hello{
+    text-align: center;
+    color: forestgreen;
+    font-size: 30px;    
+}
